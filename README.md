@@ -1,1 +1,1 @@
-# from 7 node
+# from 7 node and from 6 node
